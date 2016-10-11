@@ -1,0 +1,16 @@
+HOSPITAL NAME,	Avg_Effective_Care_Score, Count_of_Better_than_National_Rate_Readmisions		
+
+ST FRANCIS HOSPITAL, ROSLYN     119.29729729729729      4
+NEW YORK-PRESBYTERIAN HOSPITAL  111.79069767441861      5
+DESERT VALLEY HOSPITAL  109.68571428571428      1
+JOHNS HOPKINS HOSPITAL, THE     109.55172413793103      1
+MEDSTAR WASHINGTON HOSPITAL CENTER      108.21052631578948      2
+CARONDELET ST  MARYS HOSPITAL   108.1842105263158       2
+DOCTORS'  COMMUNITY HOSPITAL    107.96551724137932      1
+SINAI HOSPITAL OF BALTIMORE     107.9   1
+PROVIDENCE HOSPITAL     107.76470588235294      1
+FORT DUNCAN MEDICAL CENTER      106.75757575757575      1
+
+
+
+The results above show the top 10 hospitals (ordered by average effective care score) that have at least 1 "Better than National Rate" readmission rate. I chose to incorporate both the Readmissions data as well as the Effective Care data to ensure both facets of Hospital quality were assessed. I believe that these results are consistant in showing 10 hospitals with high average effective care rates as well as being able to deliver low readmission rates. I believe this is a good model to show high-quality care.
