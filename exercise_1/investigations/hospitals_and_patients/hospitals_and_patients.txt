@@ -1,0 +1,33 @@
+ASCENDING RESULTS (Comparing the lowest ratings for correlation)
+HOSPITAL NAME	OVERALL_SURVEY_RATING	AVG_EC_SCORE	COUNT_BELOW_AVG_READMISSIONS
+
+CENTERPOINT MEDICAL CENTER      0       92.12820512820512       2
+OZARKS MEDICAL CENTER   0       93.63888888888889       3
+MERCY HOSPITAL JEFFERSON        0       94.39473684210526       1
+BAPTIST HEALTH MADISONVILLE     0       92.72972972972973       2
+NATCHEZ COMMUNITY HOSPITAL      0       84.8    1
+BON SECOURS DEPAUL MEDICAL CENTER       0       97.78378378378379       1
+JFK MEDICAL CENTER      0       91.35897435897436       1
+NATCHEZ REGIONAL MEDICAL CENTER 0       89.45714285714286       1
+DELTA REGIONAL MEDICAL CENTER   0       92.57142857142857       1
+OLYMPIC MEDICAL CENTER  0       87.17073170731707       3
+
+
+
+DESCENDING RESULTS (Comparing the highest ratings for correlation)
+HOSPITAL NAME	OVERALL_SURVEY_RATING	AVG_EC_SCORE	COUNT_BELOW_AVG_READMISSIONS
+
+FLORIDA HOSPITAL MEMORIAL MEDICAL CENTER        9       90.07317073170732      1
+UNIVERSITY OF ALABAMA HOSPITAL  9       99.07692307692308       3
+BRONSON METHODIST HOSPITAL      9       92.71428571428571       1
+MASSACHUSETTS GENERAL HOSPITAL  9       101.15384615384616      2
+ST MARYS HOSPITAL       9       88.82051282051282       1
+UNIVERSITY OF KANSAS HOSPITAL   9       96.74358974358974       1
+KENTUCKIANA MEDICAL CENTER LLC  9       89.66666666666667       1
+MUSC MEDICAL CENTER     8       94.47619047619048       1
+THE UNIVERSITY OF TN MEDICAL CENTER     8       98.64102564102564       1
+NEA BAPTIST MEMORIAL HOSPITAL   8       93.65853658536585       1
+
+
+
+These results are a comparison of the patient survey overall rating, average effective care score, and count of below average readmissions rates for the hospitals with the lowest patient survey ratings. These results show a slight correlation on both the high and low end of hospital surveys/ratings. For hospitals that received very low overall patient survey ratings, there is a slightly lower average effective care score and a higher count of below-average readmissions rates.Likewise, for hospitals that received very high overall patient survey ratings, there is a slightly higher average effective care score and a generally low count of below-average readmissions rates.

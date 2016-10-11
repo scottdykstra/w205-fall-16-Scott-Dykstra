@@ -1,0 +1,15 @@
+STATE	Avg_Effective_Care_Score
+
+DC      100.57804285590663
+DE      100.0595685260159
+MD      99.97173146494391
+NJ      96.3549145971045
+NH      95.19835624711192
+NY      94.89017930570823
+CT      94.39485742045515
+VI      94.26666666666667
+MA      94.23021089237828
+CA      93.89382116592914
+
+
+The results above show the top 10 states with the highest average effective care score. I obtained these results by first averaging scores across hospitals and then averaging hospital scores in their respective states. The results are pretty straightforward and accurately reflect which states provide the highest quality of care. As one would expect, these top 10 states are each considered relatively high-income states. They are mostly clustered in the northeast region of the US, and mostly Democratic states - which is what one would expect.

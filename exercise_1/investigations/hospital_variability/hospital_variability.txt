@@ -1,0 +1,16 @@
+MEASURE NAME,	MAX VARIABILITY
+
+Heart  Failure (HF) 30-Day Readmission Rate     15.899999999999999
+Chronic Obstructive Pulmonary Disease (COPD) 30-Day Readmission Rate    11.0
+30-Day All-Cause Unplanned Readmission Following Coronary Artery Bypass Graft Surgery (CABG)     9.6
+Pneumonia 30-Day Readmission Rate       8.600000000000001
+30-Day Hospital-Wide All-Cause Unplanned Readmission Rate       8.5
+30-Day All-Cause Mortality Following Coronary Artery Bypass Graft (CABG) Surgery7.6
+Acute Myocardial Infarction (AMI) 30-Day Readmission Rate       7.5
+30-Day Readmission Rate Following Elective Primary Total Hip Arthroplasty (THA) and/or Total Knee Arthroplasty (TKA)     5.9
+Stroke (STK) 30-Day Readmission Rate    -0.09999999999999964
+Pneumonia 30-Day Mortality Rate -0.09999999999999964
+
+
+The results above show the top ten procedures with the largest variability between hospitals, and their associated max variability. I queried these results by calculating the difference between the max and min procedure (measure) score for each procedure seen across all hospitals. I believe this is adequate to conclude which procedures have the greatest variablity. 
+
